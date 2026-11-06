@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repository": "alandvo/avonetics-art-036",
+  "images": [
+    {
+      "source": "covers/ep/a_20261105_070755_fb3375.jpg",
+      "bytes": 64825,
+      "localMtime": 1793862486.1370182,
+      "file": "images/66e0935cfa1e83b8121d870aa5c5a6928acdea3aa8be0828275e335eb2ce26dd.jpg",
+      "sha256": "66e0935cfa1e83b8121d870aa5c5a6928acdea3aa8be0828275e335eb2ce26dd"
+    },
+    {
+      "source": "covers/ep/a_20261105_091142_848507.jpg",
+      "bytes": 44733,
+      "localMtime": 1793869913.2758877,
+      "file": "images/f71144f455c8daa2556bb05c2a92e2fda7fb37ac1f3ca6abb40b5f7ba68d0bb1.jpg",
+      "sha256": "f71144f455c8daa2556bb05c2a92e2fda7fb37ac1f3ca6abb40b5f7ba68d0bb1"
+    },
+    {
+      "source": "covers/ep/a_20261106_060938_2754d0.jpg",
+      "bytes": 48632,
+      "localMtime": 1793945387.625994,
+      "file": "images/f657320c35fae4f3ebb469a51c0cfed1d0420d8cad86ed7c15c2fc0efda05d89.jpg",
+      "sha256": "f657320c35fae4f3ebb469a51c0cfed1d0420d8cad86ed7c15c2fc0efda05d89"
+    }
+  ]
+}
